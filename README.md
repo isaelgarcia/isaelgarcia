@@ -50,7 +50,7 @@ Se quiser trocar uma ideia, é só me chamar! 🚀
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
@@ -87,9 +87,6 @@ Se quiser trocar uma ideia, é só me chamar! 🚀
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<br/>
-<br/>
-
 ### 📊 Estatísticas
 
 <p>
@@ -110,9 +107,11 @@ Se quiser trocar uma ideia, é só me chamar! 🚀
 
 </p>
 
+<br>
+<br>
+
 ---
-<div>
+
 ### ✉️ Entre em contato!
 
 Sinta-se à vontade para me chamar nas redes sociais ou por e-mail. Vamos conversar! 😄
-</div>
