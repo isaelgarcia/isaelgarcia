@@ -2,15 +2,10 @@
 
 ##`Desenvolvedor FullStack`##
 
-Olá! Me chamo Isael Garcia, tenho 20 anos e sou apaixonado por tecnologia e inovação.  
-Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UNINASSAU pelo programa Embarque Digital, e também sou formado como técnico em Desenvolvimento de Sistemas pela Escola Técnica Estadual Miguel Batista.
+Olá! Me chamo Isael Garcia, sou estudante de Análise e Desenvolvimento de Sistemas pela UNINASSAU, através do programa Embarque Digital.  
+Possuo também formação técnica em Desenvolvimento de Sistemas pela Escola Técnica Estadual Miguel Batista.
 
-Tenho grande interesse no desenvolvimento FullStack, sempre buscando criar soluções que unam boa experiência de usuário com lógica bem estruturada no backend.  
-Gosto de desafios e estou constantemente estudando novas tecnologias para evoluir minhas habilidades — tanto em projetos pessoais quanto em equipe.
-
-No momento, busco oportunidades para aplicar meus conhecimentos na prática, contribuir com projetos reais e crescer profissionalmente na área de tecnologia.
-
-Se quiser trocar uma ideia, é só me chamar! 🚀
+Atualmente busco novos desafios profissionais para aplicar meus conhecimentos e continuar evoluindo na área da tecnologia.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/isael-garcia-7aa837271/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -87,6 +82,9 @@ Se quiser trocar uma ideia, é só me chamar! 🚀
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<br>
+<br>
+
 ### 📊 Estatísticas
 
 <p>
@@ -106,9 +104,6 @@ Se quiser trocar uma ideia, é só me chamar! 🚀
   />
 
 </p>
-
-<br>
-<br>
 
 ---
 
