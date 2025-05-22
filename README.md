@@ -95,7 +95,7 @@ Se quiser trocar uma ideia, é só me chamar! 🚀
 />
 </span>
 
-<br><br>
+<br>
 
 ### 📊 Estatísticas
 
