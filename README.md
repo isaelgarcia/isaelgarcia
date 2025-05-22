@@ -22,78 +22,16 @@ Se quiser trocar uma ideia, é só me chamar! 🚀
 
 ### ⚙️ Linguagens e Tecnologias
 
-<span style="display: inline-block; vertical-align: middle;">
-<img 
-    alt="HTML"
-    title="HTML" 
-    width="40px" 
-    style="margin-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-</span>
-<span style="display: inline-block; vertical-align: middle;">
-<img 
-    alt="CSS" 
-    title="CSS"
-    width="40px" 
-    style="margin-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-</span>
-<span style="display: inline-block; vertical-align: middle;">
-<img 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="40px"
-    style="margin-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-</span>
-<span style="display: inline-block; vertical-align: middle;">
-<img 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="40px" 
-    style="margin-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-</span>
-<span style="display: inline-block; vertical-align: middle;">
-<img 
-    alt="React"
-    title="React" 
-    width="40px" 
-    style="margin-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-</span>
-<span style="display: inline-block; vertical-align: middle;">
-<img 
-    alt="Java"
-    title="Java" 
-    width="40px" 
-    style="margin-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-</span>
-<span style="display: inline-block; vertical-align: middle;">
-<img 
-    alt="MySQL"
-    title="MySQL" 
-    width="40px" 
-    style="margin-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-</span>
-<span style="display: inline-block; vertical-align: middle;">
-<img 
-    alt="Git" 
-    title="Git"
-    width="40px" 
-    style="margin-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-</span>
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+</div>
 
 <br>
 
@@ -103,7 +41,7 @@ Se quiser trocar uma ideia, é só me chamar! 🚀
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="170" 
+    height="175" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=isaelgarcia&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
@@ -111,13 +49,13 @@ Se quiser trocar uma ideia, é só me chamar! 🚀
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="170" 
+      height="175" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaelgarcia&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 ---
 
