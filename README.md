@@ -38,12 +38,12 @@ Se quiser trocar uma ideia, é só me chamar! 🚀
 ### 📊 Estatísticas
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=isaelgarcia&show_icons=true&theme=dark&include_all_commits=true&locale=en"/>
+  <img align="left" alt="GitHub Stats" height="175" src="https://github-readme-stats.vercel.app/api?username=isaelgarcia&show_icons=true&theme=dark&include_all_commits=true&locale=en"/>
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="170" 
+      height="175" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaelgarcia&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
