@@ -38,7 +38,7 @@ Se quiser trocar uma ideia, é só me chamar! 🚀
 ### 📊 Estatísticas
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaelgarcia&show_icons=true&theme=dark&include_all_commits=true&locale=en"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=isaelgarcia&show_icons=true&theme=dark&include_all_commits=true&locale=en"/>
 
 <img 
       align="left" 
